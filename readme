@@ -1,0 +1,13 @@
+# Web Server with PHP Support
+
+step1 - Before running the server, make sure you have the following installed:
+
+- Python 3.x
+- PHP (go to php.ini
+    check line 697
+    ;enable_post_data_reading = On)
+step 2 - extract the zip file
+step 3 - start the "pyhton server.py"
+step 4 - By default, the server listens on http://127.0.0.1:2728/.
+step 5 - in / directory there is the option to redirect to the html form
+step 6 - after submitting the form you will be redirected to the php script
